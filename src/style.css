@@ -1,0 +1,62 @@
+section {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.search-box {
+  justify-content: center;
+}
+
+.search-box input {
+  height: 42px;
+  width: 550px;
+  padding-left: 50px;
+}
+
+.search-box button {
+  position: relative;
+  width: 160px;
+  height: 42px;
+  left: 30px;
+  top: -2px;
+  font-size: large;
+  background-color: #191970;
+}
+
+.bi-search {
+  position: relative;
+  top: -35px;
+  left: -330px;
+}
+
+.box {
+  width: max-content;
+  height: auto;
+  margin: 20px;
+}
+
+/* Tentang */
+.tentang {
+  text-align: left;
+}
+
+.tentang h3 {
+  font-size: 52px;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+
+.tentang h3 span {
+  font-weight: 600;
+}
+
+.tentang p {
+  font-size: 18px;
+  font-weight: 200;
+  margin: 25px 0;
+}
+
+.hasil {
+  margin-top: 100px;
+}

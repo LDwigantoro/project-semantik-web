@@ -1,0 +1,92 @@
+@prefix p: <http://basket.com>
+@prefix d: <http://basket.com/ns/data#>
+
+p:P01        d:namaKlub 	        "Prawira Bandung" ;
+             d:tempatLatihan       	"Gor C-Tra" ;
+             d:nomerTelfon          "0812-123-456" ;
+             d:Email                "prawira@email.com";
+             d:contactPerson        "Ahmad Budiman";
+             d:Jargon               "Bandung Juara".
+
+p:P02        d:namaKlub 	        "UBBU Unpad" ;
+             d:tempatLatihan       	"Gor Padjadjaran" ;
+             d:nomerTelfon          "0822-123-785" ;
+             d:Email                "ubbu@unpad.com";
+             d:contactPerson        "Dimas Adi";
+             d:Jargon               "Unpad Number One!".      
+
+p:P03        d:namaKlub 	        "Tunas Bangsa" ;
+             d:tempatLatihan       	"Gor Tunas" ;
+             d:nomerTelfon          "0857-2456-789" ;
+             d:Email                "tunas.bangsa@gmail.com";
+             d:contactPerson        "Kelvin Wijaya";
+             d:Jargon               "Better Than Sorry".           
+
+p:P04        d:namaKlub 	        "Garuda Bandung" ;
+             d:tempatLatihan       	"Goru C-Tra" ;
+             d:nomerTelfon          "0821-324-857" ;
+             d:Email                "garuda.bandung@gmail.com";
+             d:contactPerson        "Jatmiko S";
+             d:Jargon               "We Are Family!".
+
+p:P05        d:namaKlub 	        "Bandung Utama" ;
+             d:tempatLatihan       	"Gor Padjadjaran" ;
+             d:nomerTelfon          "0895-456-321" ;
+             d:Email                "bandung@utama.com";
+             d:contactPerson        "Rizky Akbar";
+             d:Jargon               "Bandung, Bandung, Bandung!".
+             
+p:P06        d:namaKlub 	        "Siliwangi United" ;
+             d:tempatLatihan       	"Gor Siliwangi" ;
+             d:nomerTelfon          "0832-456-765" ;
+             d:Email                "siliwangi.bandung@yahoo.com";
+             d:contactPerson        "Agus Setiawan";
+             d:Jargon               "Sieun Ku Maung!".
+
+p:P07        d:namaKlub 	        "Scorpion Bandung" ;
+             d:tempatLatihan       	"Gor C-Tra" ;
+             d:nomerTelfon          "0734-458-978" ;
+             d:Email                "scorpion@gmail.com";
+             d:contactPerson        "Ridwan Fahmi";
+             d:Jargon               "Fear The Scorpion!".
+
+p:P08        d:namaKlub 	        "Flash" ;
+             d:tempatLatihan       	"Gor Flash" ;
+             d:nomerTelfon          "0822-543-678" ;
+             d:Email                "flash@email.com";
+             d:contactPerson        "David Wijaya";
+             d:Jargon               "Fast Or Nothing".
+
+p:P09        d:namaKlub 	        "Rangers Basketball Academy" ;
+             d:tempatLatihan       	"Gor LCC" ;
+             d:nomerTelfon          "0543-456-789" ;
+             d:Email                "we.the.ranger@email.com";
+             d:contactPerson        "William Wijayanto";
+             d:Jargon               "We Are Ranger!".
+
+p:P10        d:namaKlub 	        "Bandung Knight" ;
+             d:tempatLatihan       	"Gor C-Tra" ;
+             d:nomerTelfon          "0876-648-865" ;
+             d:Email                "bandung.knight@gmai.com";
+             d:contactPerson        "Faishal Firdaus";
+             d:Jargon               "We The Knight".
+             
+p:P11        d:namaKlub 	        "Soulhead Bandung" ;
+             d:tempatLatihan       	"Gor Padjadjaran" ;
+             d:nomerTelfon          "0867-784-464" ;
+             d:Email                "soulhead@email.com";
+             d:contactPerson        "Leonardo Pambudi";
+             d:Jargon               "Soulhead Nation!".
+
+p:P12        d:namaKlub 	        "HRCN Basketball" ;
+             d:tempatLatihan       	"Gor Padjadjaran" ;
+             d:nomerTelfon          "0897-467-876" ;
+             d:Email                "hrcn@gmail.com";
+             d:contactPerson        "Budi Darmawan";
+             d:Jargon               "Why NOT?".
+             
+
+
+
+             
+
